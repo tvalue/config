@@ -1,0 +1,51 @@
+{
+    "config": {
+		"networkId": 60211,
+        "chainId": 60211,
+		"homesteadBlock": 0,
+		"eip2FBlock": 0,
+		"eip7FBlock": 0, 
+		"eip150Block": 0, 
+		"eip155Block": 0, 
+		"eip160Block": 0, 
+		"eip161FBlock": 0, 
+		"eip170FBlock": 0, 
+		"eip100FBlock": 0, 
+		"eip140FBlock": 0, 
+		"eip198FBlock": 0, 
+		"eip211FBlock": 0, 
+		"eip212FBlock": 0, 
+		"eip213FBlock": 0, 
+		"eip214FBlock": 0, 
+		"eip658FBlock": 0, 
+		"eip145FBlock": 0, 
+		"eip1014FBlock": 0, 
+		"eip1052FBlock": 0, 
+		"eip152FBlock": 0, 
+		"eip1108FBlock": 0, 
+		"eip1344FBlock": 0, 
+		"eip1884FBlock": 0, 
+		"eip2028FBlock": 0, 
+		"eip2200FBlock": 0, 
+		"disposalBlock": 0, 
+		"ethash": {}, 
+		"requireBlockHashes": {}
+    },
+    "nonce": "0x4",
+    "timestamp": "0x0",
+    "gasLimit": "0x2fefd8",
+    "difficulty": "0x4cccc8",
+    "coinbase"   : "0x0000000000000000000000000000000000000000",
+    "extraData"  : "0x546956616c7565",
+    "nonce"      : "0x0000000000000042",
+	"mixhash"    : "0x0000000000000000000000000000000000000000000000000000000000000000",
+	"parentHash" : "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "alloc": {
+        "0xadeaEc3225352c67e91D2f79b87B40992E8a3657": {
+            "balance": "586400000000000000000000000"
+        }
+    },
+  "number": "0x0", 
+  "gasUsed": "0x0", 
+  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+}
